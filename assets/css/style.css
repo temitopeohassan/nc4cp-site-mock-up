@@ -1276,8 +1276,8 @@ span.type-tag {
 .header .navigation .logo {
 	width: 575px;
 	height: 75px;
-	margin:  0;
-	z-index: 0;
+	margin: 10px 0;
+	z-index: 10;
 }
 .main-navigation>nav>.main-menu {
 	display: flex;
